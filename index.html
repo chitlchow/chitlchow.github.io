@@ -1,14 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>
-    
-    <title>
-      Chris GitHub Pages
-    </title>
+    <title>Chris GitHub Pages</title>
     <link
       href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap"
       rel="stylesheet"
     />
+    <link rel="stylesheet" href="styles.css" />
+
     <script type="importmap">
       {
         "imports": {
@@ -16,23 +15,10 @@
         }
       }
     </script>
-    <script type="module">
-      import "@material/web/all.js";
-      import '@material/web/button/filled-button.js';
-
-      import { styles as typescaleStyles } from "@material/web/typography/md-typescale-styles.js";
-
-      document.adoptedStyleSheets.push(typescaleStyles.styleSheet);
-    </script>
+    <script src="src/index.js" , type="module"></script>
   </head>
 
   <body>
-    <h1 class="md-typescale-display-medium">Test if Material Design is Working </h1>
-    
-    <md-radio class="group"></md-radio>
-    <div class='checkbox-items'>
-      <md-checkbox></md-checkbox>
-      <a>Test</a>
-    </div>
+
   </body>
 </html>
