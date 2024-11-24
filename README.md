@@ -1,16 +1,14 @@
-# Chris Chow
-
-## Contact
+# Contact
 **Email:** [chitlchow@gmail.com](mailto:chitlchow@gmail.com) | **LinkedIn:** [linkedin.com/in/chitlchow](https://www.linkedin.com/in/chitlchow/)
 
 ---
 
-## Summary
+# Summary
 Dedicated Python developer with a strong foundation in data science and machine learning. Proven ability to develop and deploy predictive models using advanced analytics techniques. Experienced in working autonomously within high-accountability environments and continuously seeking out new technologies and approaches. Passionate about data-driven innovation and eager to contribute to a dynamic team focused on cutting-edge solutions.
 
 ---
 
-## Education
+# Education
 **MSc Data Science**  
 *City, University of London*  
 Oct 2022 – Feb 2024  
@@ -24,7 +22,7 @@ Sep 2016 – Jul 2020
 
 ---
 
-## Work Experience
+# Work Experience
 
 **Machine Learning Engineer**    
 *Nurturing Reads*    
@@ -48,41 +46,41 @@ Jun 2018 – Aug 2019
 
 ---
 
-## Projects
-### [Recipe Site Traffic Prediction]()  
+# Projects
+## [Recipe Site Traffic Prediction]()  
 *May 2024*  
 - Developed and compared models achieving up to 81% precision for identifying recipes with high traffic potential.  
 - Presented data-driven recommendations that increased engagement potential by threefold.
 
-### [Reinforcement Learning in Snake Game]()  
+## [Reinforcement Learning in Snake Game]()  
 *May 2023*  
 - Designed and tested a Python-based agent for playing Snake, achieving scores of up to 40 points.
 
-### [Predictive Analytics on S&P 500 Time Series using Neural Network]()
+## [Predictive Analytics on S&P 500 Time Series using Neural Network]()
 *Apr 2023*  
 - Developed and trained RNN and LSTM models on a decade of S&P 500 time series data using Python and PyTorch.  
 - Optimized the models to achieve an accuracy that accounts for 90% of the variations.
 
 ---
 
-## Certifications
-### Professional Data Scientist  
+# Certifications
+## Professional Data Scientist  
 *DataCamp, May 2024*  
 - Proved proficiency in data management, analysis, and machine learning.  
 - Demonstrated skills in production Python coding, issue resolution, and presenting insights through reports or dashboards.  
 
-### SQL Associate  
+## SQL Associate  
 *DataCamp, March 2024*  
 - Demonstrated knowledge, skills, and abilities to use SQL for data analysis, including data management and exploratory analysis.  
 
-### TensorFlow Developer Certificate  
+## TensorFlow Developer Certificate  
 *TensorFlow.org, Dec 2023*  
 - Proficient in building, training, and deploying machine learning models using TensorFlow in Python.  
 - Skilled in developing scalable machine learning solutions for real-world applications, recognized for expertise in the field.
 
 ---
 
-## Skills Summary
+# Skills Summary
 - Proficiency in Python programming, with experience in writing Python code for data science projects.  
 - Strong time management skills, consistently prioritizing tasks to ensure timely completion of multiple projects without compromising quality.  
 - Self-motivated individual, capable of working independently in high-accountability settings, and enriching skillsets through self-learning.  
