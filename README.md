@@ -13,12 +13,12 @@ Dedicated Python developer with a strong foundation in data science and machine 
 ## Education
 **MSc Data Science**  
 *City, University of London*  
-*Oct 2022 – Feb 2024*  
+Oct 2022 – Feb 2024  
 
 
 **BBA in Business Analysis**  
 *City University of Hong Kong*  
-*Sep 2016 – Jul 2020*    
+Sep 2016 – Jul 2020    
 - External Vice President of Executive Committee of Mathematics Society, City University of Hong Kong Students’ Union  
 - Floor Representative of Prosperity Hall, City University of Hong Kong  
 
@@ -27,20 +27,21 @@ Dedicated Python developer with a strong foundation in data science and machine 
 ## Work Experience
 
 **Machine Learning Engineer**    
-**Nurturing Reads**    
-June 2024 - Now
+*Nurturing Reads*    
+June 2024 - Now    
+* Founder Engineer for model development in image generation
 
 
 **STEM Instructor**    
-**Cobo Academy, Hong Kong**  
-*Sep 2020 – Sep 2022*  
+*Cobo Academy, Hong Kong*  
+Sep 2020 – Sep 2022
 - Led business development initiatives by teaching and establishing partnerships with more than 20 external parties.  
 - Instructed technology and coding courses tailored to individuals from diverse technical and non-technical backgrounds.  
 - Developed a detection model using Python and OpenCV to recognize 14 road signs and weather signs with over 90% accuracy.
 
 **Patent Database Assistant**  
-**City University of Hong Kong**  
-*Jun 2018 – Aug 2019*  
+*City University of Hong Kong*  
+Jun 2018 – Aug 2019
 - Generated monthly reports from the patent database to facilitate management operations.  
 - Developed and deployed a data visualization dashboard for executives to streamline patent renewal and sales processes.  
 - Conducted regular maintenance of the database to uphold data integrity across online and internal platforms.  
