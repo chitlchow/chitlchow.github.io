@@ -1,20 +1,20 @@
 # Chris Chow
 
+## Contact
 **Email:** [chitlchow@gmail.com](mailto:chitlchow@gmail.com) | **LinkedIn:** [linkedin.com/in/chitlchow](https://www.linkedin.com/in/chitlchow/)
 
+---
 
 ## Summary
 Dedicated Python developer with a strong foundation in data science and machine learning. Proven ability to develop and deploy predictive models using advanced analytics techniques. Experienced in working autonomously within high-accountability environments and continuously seeking out new technologies and approaches. Passionate about data-driven innovation and eager to contribute to a dynamic team focused on cutting-edge solutions.
 
+---
 
 ## Education
 **MSc Data Science**  
 *City, University of London*  
 *Oct 2022 – Feb 2024*  
-- Grade: Merit  
-- Projects:
-    - S&P 500 Predictions with LSTM and RNN
-    - Reinforcement Learning in Snake Game
+
 
 **BBA in Business Analysis**  
 *City University of Hong Kong*  
@@ -22,15 +22,23 @@ Dedicated Python developer with a strong foundation in data science and machine 
 - External Vice President of Executive Committee of Mathematics Society, City University of Hong Kong Students’ Union  
 - Floor Representative of Prosperity Hall, City University of Hong Kong  
 
+---
+
 ## Work Experience
-### STEM Instructor  
+
+**Machine Learning Engineer**    
+**Nurturing Reads**    
+June 2024 - Now
+
+
+**STEM Instructor**    
 **Cobo Academy, Hong Kong**  
 *Sep 2020 – Sep 2022*  
 - Led business development initiatives by teaching and establishing partnerships with more than 20 external parties.  
 - Instructed technology and coding courses tailored to individuals from diverse technical and non-technical backgrounds.  
 - Developed a detection model using Python and OpenCV to recognize 14 road signs and weather signs with over 90% accuracy.
 
-### Patent Database Assistant  
+**Patent Database Assistant**  
 **City University of Hong Kong**  
 *Jun 2018 – Aug 2019*  
 - Generated monthly reports from the patent database to facilitate management operations.  
