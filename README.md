@@ -1,10 +1,10 @@
 # Contact
-**Email:** [chitlchow@gmail.com](mailto:chitlchow@gmail.com) | **LinkedIn:** [linkedin.com/in/chitlchow](https://www.linkedin.com/in/chitlchow/)
+**Email:** [chitlchow@gmail.com](mailto:chitlchow@gmail.com) | **LinkedIn**: [linkedin.com/in/chitlchow/](https://www.linkedin.com/in/chitlchow/)
 
 ---
 
 # Summary
-Dedicated Python developer with a strong foundation in data science and machine learning. Proven ability to develop and deploy predictive models using advanced analytics techniques. Experienced in working autonomously within high-accountability environments and continuously seeking out new technologies and approaches. Passionate about data-driven innovation and eager to contribute to a dynamic team focused on cutting-edge solutions.
+Machine Learning Engineer and Python Developer with a foundation in data science and applied machine learning. Experienced in designing AI models for image generation and predictive analytics. Skilled in working autonomously in startup environments and delivering production-level code. Driven by curiosity and a mission to build impactful, data-driven solutions.
 
 ---
 
@@ -47,16 +47,16 @@ Jun 2018 – Aug 2019
 ---
 
 # Projects
-## [Recipe Site Traffic Prediction]()  
+**[Recipe Site Traffic Prediction]()**  
 *May 2024*  
 - Developed and compared models achieving up to 81% precision for identifying recipes with high traffic potential.  
 - Presented data-driven recommendations that increased engagement potential by threefold.
 
-## [Reinforcement Learning in Snake Game]()  
+**[Reinforcement Learning in Snake Game]()**  
 *May 2023*  
 - Designed and tested a Python-based agent for playing Snake, achieving scores of up to 40 points.
 
-## [Predictive Analytics on S&P 500 Time Series using Neural Network]()
+**[Predictive Analytics on S&P 500 Time Series using Neural Network]()**    
 *Apr 2023*  
 - Developed and trained RNN and LSTM models on a decade of S&P 500 time series data using Python and PyTorch.  
 - Optimized the models to achieve an accuracy that accounts for 90% of the variations.
@@ -64,16 +64,16 @@ Jun 2018 – Aug 2019
 ---
 
 # Certifications
-## Professional Data Scientist  
+**Professional Data Scientist**  
 *DataCamp, May 2024*  
 - Proved proficiency in data management, analysis, and machine learning.  
 - Demonstrated skills in production Python coding, issue resolution, and presenting insights through reports or dashboards.  
 
-## SQL Associate  
+**SQL Associate**  
 *DataCamp, March 2024*  
 - Demonstrated knowledge, skills, and abilities to use SQL for data analysis, including data management and exploratory analysis.  
 
-## TensorFlow Developer Certificate  
+**TensorFlow Developer Certificate**  
 *TensorFlow.org, Dec 2023*  
 - Proficient in building, training, and deploying machine learning models using TensorFlow in Python.  
 - Skilled in developing scalable machine learning solutions for real-world applications, recognized for expertise in the field.
@@ -81,8 +81,9 @@ Jun 2018 – Aug 2019
 ---
 
 # Skills Summary
-- Proficiency in Python programming, with experience in writing Python code for data science projects.  
-- Strong time management skills, consistently prioritizing tasks to ensure timely completion of multiple projects without compromising quality.  
-- Self-motivated individual, capable of working independently in high-accountability settings, and enriching skillsets through self-learning.  
-- Strong communication and interpersonal skills, comfortable and effective in roles involving direct interaction with other parties.
+- Python, TensorFlow, PyTorch, SQL
+- Machine Learning, Deep Learning, Predictive Analytics
+- Image Generation, Time Series Analysis, Data Visualization
+- Git, Jupyter, VS Code, GitHub
+- Strong communicator and self-starter in collaborative and independent work environments
 
