@@ -1,0 +1,41 @@
+.resume-container {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 2rem;
+  color: #e0e0e0;
+  background: radial-gradient(circle at top left, #222, #000);
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(0, 255, 255, 0.3);
+  animation: fadeIn 1s ease-in-out;
+}
+
+.resume-header h1 {
+  margin: 0;
+  font-size: 2.5rem;
+  color: #49eaff;
+  text-shadow: 0 0 10px #49eaff;
+}
+
+.resume-header a {
+  color: #78e0ff;
+}
+
+section {
+  margin-top: 1.5rem;
+  animation: slideUp 0.6s ease both;
+}
+
+h2 {
+  color: #49eaff;
+  text-shadow: 0 0 5px #49eaff;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
